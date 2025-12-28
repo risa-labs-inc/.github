@@ -56,7 +56,7 @@ brew install --cask boss
 
 ## Team Members
 
-[![Internal Docs](https://img.shields.io/badge/Internal_Docs-Members_Only-red?style=flat-square&logo=github)](https://github.com/risa-labs-inc/internal-docs)
+[![Internal Docs](https://img.shields.io/badge/Internal_Docs-Members_Only-red?style=flat-square&logo=github)](https://github.com/risa-labs-inc/.github-private)
 
 > Organization members can access internal documentation, architecture guides, and runbooks.
 
