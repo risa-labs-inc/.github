@@ -42,6 +42,7 @@ A high-performance terminal emulator built in pure Kotlin with SSH and PTY suppo
 | [**BOSS-Releases**](https://github.com/risa-labs-inc/BOSS-Releases) | Public releases for BOSS desktop application | ![Stars](https://img.shields.io/github/stars/risa-labs-inc/BOSS-Releases?style=flat-square) |
 | [**MagicPencil**](https://github.com/risa-labs-inc/MagicPencil) | AI-powered automation toolkit | ![Stars](https://img.shields.io/github/stars/risa-labs-inc/MagicPencil?style=flat-square) |
 | [**cursor-auto-continue**](https://github.com/risa-labs-inc/cursor-auto-continue) | VS Code extension for Claude AI tool call limits | ![Stars](https://img.shields.io/github/stars/risa-labs-inc/cursor-auto-continue?style=flat-square) |
+| [**BossTerm**](https://github.com/kshivang/BossTerm) | Pure Kotlin terminal emulator with SSH and PTY support | ![Stars](https://img.shields.io/github/stars/kshivang/BossTerm?style=flat-square) |
 | [**Micro-Boss**](https://github.com/risa-labs-inc/Micro-Boss) | Lightweight version of BOSS for quick automation | ![Stars](https://img.shields.io/github/stars/risa-labs-inc/Micro-Boss?style=flat-square) |
 
 ---
