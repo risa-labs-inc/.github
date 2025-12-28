@@ -26,6 +26,13 @@ brew tap risa-labs-inc/boss
 brew install --cask boss
 ```
 
+### BossTerm - Pure Kotlin Terminal Emulator
+
+A high-performance terminal emulator built in pure Kotlin with SSH and PTY support. Powers the terminal integration in BOSS.
+
+[![Download BossTerm](https://img.shields.io/badge/Download-BossTerm-green?style=for-the-badge)](https://github.com/kshivang/BossTerm/releases)
+[![Latest Release](https://img.shields.io/github/v/release/kshivang/BossTerm?style=for-the-badge)](https://github.com/kshivang/BossTerm/releases/latest)
+
 ---
 
 ## Open Source Projects
